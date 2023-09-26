@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "Amazon",
-      link: "https://amazon.com/",
+      name: "my yt channel, dont mind the picture",
+      link: "https://www.youtube.com/@nfptheking",
       image: "/images/icons/apps/amazon.png",
       categories: ["all", "media"]
     },
