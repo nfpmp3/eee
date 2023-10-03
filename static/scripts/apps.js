@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     {
       name: "my yt channel, dont mind the picture",
       link: "https://www.youtube.com/@nfptheking",
-      image: "/images/icons/apps/amazon.png",
+      image: "static/images/icons/apps/yt.webp",
       categories: ["all", "media"]
     },
     {
