@@ -1,9 +1,9 @@
 document.addEventListener('DOMContentLoaded', () => {
   const appsList = [
     {
-      name: "my yt channel, dont mind the picture",
+      name: "my yt channel",
       link: "https://www.youtube.com/@nfptheking",
-      image: "static/images/icons/apps/yt.webp",
+      image: "/images/icons/apps/yt.webp",
       categories: ["all", "media"]
     },
     {
