@@ -13,9 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
       categories: ["all", "games"]
     },
     {
-      name: "Cool Math Games",
-      link: "https://coolmathgames.com",
-      image: "/images/icons/apps/coolmath.png",
+      name: "the hub",
+      link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      image: "/images/icons/appe",
       categories: ["all", "games"]
     },
     {
