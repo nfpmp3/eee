@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: "the hub",
-      link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      link: "pornhub.com",
       image: "/images/icons/appe",
       categories: ["all", "games"]
     },
